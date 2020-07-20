@@ -1,11 +1,11 @@
 ## Settings
 title: 你能看到这就是我们的缘分。别走！多看两眼这没准有你想要的
 owner: "gongdaowei"
-url: "https://dawell.me/"
+url: "https://dawell.me"
 baseurl: "/"
 permalink: /:title/
 description: ""
-markdown:
+markdown: kramdown
 webrick:
   headers:
     Access-Control-Allow-Origin: "*"
@@ -18,4 +18,4 @@ statement: ""
 # default max toc levels: 1 - 6 (h1 - h6)
 toc_level: 3
 # texts randomly displayed in background
-bgtext: "αβγδεζηθικλμνξοπρστυφχψω∷∫∮∝∞∧∨∑∏∪∩∈∵∴⊥‖∠⌒⊙≌√**I LOVE 娟娟**"
+bgtext: "αβγδεζηθικλμνξοπρστυφχψω∷∫∮∝∞∧∨∑∏∪∩∈∵∴⊥‖∠⌒⊙≌√"
