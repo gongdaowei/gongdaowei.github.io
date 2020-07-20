@@ -1,21 +1,21 @@
 ## Settings
-title: 猿分
+title: 你能看到这就是我们的缘分。别走！多看两眼这没准有你想要的
 owner: "gongdaowei"
 url: "https://dawell.me/"
-baseurl: "/"
+baseurl: "/pages/index.html"
 permalink: /:title/
 description: ""
-markdown: kramdown
+markdown:
 webrick:
   headers:
     Access-Control-Allow-Origin: "*"
 ## Global Variables
-email: "18610631724"
+email: "18610631724@163.com"
 github: "gongdaowei/gongdaowei.github.io"
 # path to: css/, fonts/, img/ and js/
 assets_path: "/assets" # i.e. "/assets" 
-statement: "Designed by DeerRIDER, All Rights Reserved"
+statement: ""
 # default max toc levels: 1 - 6 (h1 - h6)
 toc_level: 3
 # texts randomly displayed in background
-bgtext: "αβγδεζηθικλμνξοπρστυφχψω∷∫∮∝∞∧∨∑∏∪∩∈∵∴⊥‖∠⌒⊙≌√"
+bgtext: "αβγδεζηθικλμνξοπρστυφχψω∷∫∮∝∞∧∨∑∏∪∩∈∵∴⊥‖∠⌒⊙≌√**I LOVE 娟娟**"
