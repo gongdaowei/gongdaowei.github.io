@@ -2,7 +2,7 @@
 title: 你能看到这就是我们的缘分。别走！多看两眼这没准有你想要的
 owner: "gongdaowei"
 url: "https://dawell.me/"
-baseurl: "/pages/index.html"
+baseurl: "/"
 permalink: /:title/
 description: ""
 markdown:
